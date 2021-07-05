@@ -1,3 +1,5 @@
+## Introduction
+
 This is a [Next.js](https://nextjs.org/) project intended to repace the website for *[Crossing the Divide](crossing-the-divide.org)*. It will  enable dynamic functionality such as a contentful integration.
 #
 ## Getting Started
